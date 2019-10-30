@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.TestVagrant.onlineStore.StoreTests">
+        <methods>
+          <include name="printConfirmation"/>
+          <include name="testScenario1"/>
+          <include name="printNoOfCustomersAvailedPromotion"/>
+          <include name="testScenario2"/>
+          <include name="initialiseCustomerCounter"/>
+        </methods>
+      </class> <!-- com.TestVagrant.onlineStore.StoreTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

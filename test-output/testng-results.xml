@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121" started-at="2019-10-30T21:11:36Z" finished-at="2019-10-30T21:11:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121" started-at="2019-10-30T21:11:36Z" finished-at="2019-10-30T21:11:36Z">
+      <class name="com.TestVagrant.onlineStore.StoreTests">
+        <test-method status="PASS" signature="initialiseCustomerCounter()[pri:0, instance:com.TestVagrant.onlineStore.StoreTests@7c16905e]" name="initialiseCustomerCounter" is-config="true" duration-ms="16" started-at="2019-10-30T21:11:36Z" finished-at="2019-10-30T21:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseCustomerCounter -->
+        <test-method status="PASS" signature="testScenario1()[pri:0, instance:com.TestVagrant.onlineStore.StoreTests@7c16905e]" name="testScenario1" duration-ms="24" started-at="2019-10-30T21:11:36Z" finished-at="2019-10-30T21:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScenario1 -->
+        <test-method status="PASS" signature="testScenario2()[pri:0, instance:com.TestVagrant.onlineStore.StoreTests@7c16905e]" name="testScenario2" duration-ms="3" started-at="2019-10-30T21:11:36Z" finished-at="2019-10-30T21:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScenario2 -->
+        <test-method status="PASS" signature="testScenario3()[pri:0, instance:com.TestVagrant.onlineStore.StoreTests@7c16905e]" name="testScenario3" duration-ms="6" started-at="2019-10-30T21:11:36Z" finished-at="2019-10-30T21:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScenario3 -->
+        <test-method status="PASS" signature="printConfirmation()[pri:0, instance:com.TestVagrant.onlineStore.StoreTests@7c16905e]" name="printConfirmation" is-config="true" duration-ms="1" started-at="2019-10-30T21:11:36Z" finished-at="2019-10-30T21:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printConfirmation -->
+        <test-method status="PASS" signature="printNoOfCustomersAvailedPromotion()[pri:0, instance:com.TestVagrant.onlineStore.StoreTests@7c16905e]" name="printNoOfCustomersAvailedPromotion" is-config="true" duration-ms="1" started-at="2019-10-30T21:11:36Z" finished-at="2019-10-30T21:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printNoOfCustomersAvailedPromotion -->
+      </class> <!-- com.TestVagrant.onlineStore.StoreTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
